@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+</resources>
